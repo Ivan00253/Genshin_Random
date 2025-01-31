@@ -5,3 +5,5 @@ Es un pequeño programa de Python que elige equipos, personajes y jefes aleatori
 Para poder ejecutar el programa es necesario instalar python 3.
 
 Puedes instalarlo desde este enlace `https://www.python.org/downloads/`
+
+**El archivo .bat solo funcionara en Windows**
